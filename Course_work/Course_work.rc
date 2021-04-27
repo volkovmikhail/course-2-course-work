@@ -62,7 +62,6 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 // Icon with lowest ID value placed first to ensure application icon
 // remains consistent on all systems.
-IDI_ICON1               ICON                    "D:\\УЧЁБА\\ОСА\\КУРСАЧ\\wolf-48_46777.ico"
 
 #endif    // Английский (США) resources
 /////////////////////////////////////////////////////////////////////////////
